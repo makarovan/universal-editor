@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p143505-e356802-cmstg.adobeaemcloud.com/bin/franklin.delivery/makarovan/universal-editor/main"
+    url: "https://author-p143505-e358651-cmstg.adobeaemcloud.com/bin/franklin.delivery/makarovan/universal-editor/main"
     type: "markup"
     suffix: ".html"
